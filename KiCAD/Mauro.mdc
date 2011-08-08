@@ -1,0 +1,128 @@
+PCBNEW-LibDoc----V1  sáb 17 jul 2010 19:23:37 ART
+#
+$MODULE SOT243-1
+Li SOT243-1
+Cd Module Dil 6 pins, pads ronds
+Kw DIL
+$EndMODULE
+#
+$MODULE L1
+Li L1
+Cd Resistance 5 pas
+Kw R
+$EndMODULE
+#
+$MODULE TO92-MPSH10
+Li TO92-MPSH10
+Cd Transistor TO92 brochage type BC237
+Kw TR TO92
+$EndMODULE
+#
+$MODULE Multiwatt11 V
+Li Multiwatt11 V
+Cd Module Dil 6 pins, pads ronds
+Kw DIL
+$EndMODULE
+#
+$MODULE TO05B
+Li TO05B
+Cd Module Dil 6 pins, pads ronds
+Kw DIL
+$EndMODULE
+#
+$MODULE C_Elect_4700uF_x_25V
+Li C_Elect_4700uF_x_25V
+Kw 4700uF x 25V
+$EndMODULE
+#
+$MODULE C_Elect_220uF_x_25V
+Li C_Elect_220uF_x_25V
+Kw 10uF x 50V
+$EndMODULE
+#
+$MODULE C_Elect_2200uF_x_25V
+Li C_Elect_2200uF_x_25V
+Kw 2200uF x 25V
+$EndMODULE
+#
+$MODULE C_Elect_100uF_x_25V
+Li C_Elect_100uF_x_25V
+Kw 10uF x 50V
+$EndMODULE
+#
+$MODULE C_Elect_47uF_x_50V
+Li C_Elect_47uF_x_50V
+Kw 10uF x 50V
+$EndMODULE
+#
+$MODULE C_Elect_1000uF_x_50V
+Li C_Elect_1000uF_x_50V
+Kw 2200uF x 25V
+$EndMODULE
+#
+$MODULE C_Ceram
+Li C_Ceram
+Cd Condensateur e = 1 pas
+Kw C
+$EndMODULE
+#
+$MODULE D1N5408
+Li D1N5408
+Cd Diode 5 pas
+Kw DIODE DEV
+$EndMODULE
+#
+$MODULE R1-4[W] - Horiz.
+Li R1-4[W] - Horiz.
+Cd Resitance 3 pas
+Kw R
+$EndMODULE
+#
+$MODULE D1N400X - Horiz.
+Li D1N400X - Horiz.
+Cd Resitance 3 pas
+Kw R
+$EndMODULE
+#
+$MODULE Multiwatt11_V
+Li Multiwatt11_V
+Cd Module Dil 6 pins, pads ronds
+Kw DIL
+$EndMODULE
+#
+$MODULE R1_4[W]-Horiz.
+Li R1_4[W]-Horiz.
+Cd Resitance 3 pas
+Kw R
+$EndMODULE
+#
+$MODULE Multiwatt15_V
+Li Multiwatt15_V
+Cd Module Dil 6 pins, pads ronds
+Kw DIL
+$EndMODULE
+#
+$MODULE D1N400X-Horiz.
+Li D1N400X-Horiz.
+Cd Resitance 3 pas
+Kw R
+$EndMODULE
+#
+$MODULE C_Elect_10uF_x_50V
+Li C_Elect_10uF_x_50V
+Kw 10uF x 50V
+$EndMODULE
+#
+$MODULE he10-14d
+Li he10-14d
+Cd Connecteur HE10 14 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$MODULE IDC14
+Li IDC14
+Cd Connecteur HE10 14 contacts droit
+Kw CONN HE10
+$EndMODULE
+#
+$EndLIBDOC

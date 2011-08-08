@@ -1,0 +1,36 @@
+[PROJECT]
+Target=Timer.HEX
+Development_Mode=2
+Processor=0x628A
+Processor_Text=PIC16F628A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=Timer.c;
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[Timer.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=Timer.c
+
+[Windows]
+0=0000 Timer.c 0 0 796 451 3 0
+
+[Units]
+Count=1
+1=Timer.c (main)

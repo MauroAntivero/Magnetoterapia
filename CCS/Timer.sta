@@ -1,0 +1,61 @@
+
+ROM used: 614 (30%)
+          614 (30%) including unused fragments
+
+          1 Average locations per line
+          5 Average locations per statement
+
+RAM used: 24 (11%) at main() level
+          44 (20%) worst case
+
+Stack used: 8 worst case (out of 2 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  182    71  53  Timer.c
+  208     0   0  C:\ARCHIV~1\PICC\devices\16F628A.h
+  183    63  47  lcd.c
+----- -----
+  573   134 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     21   3   1             @delay_ms1
+0      8   1   0             @const59
+0     29   5   3   463  4.3  lcd_read_byte
+0     12   2   1   134  2.2  lcd_send_nibble
+0     27   4   3   317  4.3  lcd_send_byte
+ Inline        2   422  4.7  lcd_init
+0     18   3   4   186  5.5  lcd_gotoxy
+0     37   6   1   272  4.1  lcd_putc
+ Inline        2   675  6.9  cheq_tecla
+0     21   3   3             @DIV88
+0     37   6   2             @MUL88
+ Inline        1   313  5.1  tiempo
+ Inline        1   106  1.6  ref_display
+0     15   2   0             @const103
+0     23   4   0             @const104
+0     53   9   2             @PRINTF_U_79
+0    162  26   1   491  5.2  TIMER0_isr
+0    100  16   0   170  2.7  MAIN
+
+Program metrics:
+    Functions               11
+    Statements              134
+    Comments                161
+    Volume (V)              5775
+    Difficilty (D)          45.5
+    Effort to implement (E) 262648
+    Time to implement (T)   4 hours, 3 minutes
+    Est Delivered Bugs (B)  1
+    Cyclomatic Complexity   21
+    Maintainability (MI)    80
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-00032    47  0  
+00033-007FF   563  1434  
+
+
+

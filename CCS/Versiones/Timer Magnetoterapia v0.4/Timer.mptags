@@ -1,0 +1,135 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+A0_A2_A1_A2::0x7ff03	C:\Archivos de programa\PICC\Devices\16F628A.h	159;"	d	line:159
+A0_A2_A1_A2_OUT_ON_A3_A4::0x7e706	C:\Archivos de programa\PICC\Devices\16F628A.h	164;"	d	line:164
+A0_A3_A1_A2::0xfff04	C:\Archivos de programa\PICC\Devices\16F628A.h	158;"	d	line:158
+A0_VR_A1_VR::0x3ff02	C:\Archivos de programa\PICC\Devices\16F628A.h	162;"	d	line:162
+A3_A2_A1_A2::0xeff09	C:\Archivos de programa\PICC\Devices\16F628A.h	165;"	d	line:165
+A3_VR_A2_VR::0xcff0A	C:\Archivos de programa\PICC\Devices\16F628A.h	163;"	d	line:163
+BOOLEAN::int1	C:\Archivos de programa\PICC\Devices\16F628A.h	42;"	d	line:42
+BROWNOUT_RESTART::26	C:\Archivos de programa\PICC\Devices\16F628A.h	60;"	d	line:60
+BYTE::int8	C:\Archivos de programa\PICC\Devices\16F628A.h	41;"	d	line:41
+CCP_1	C:\Archivos de programa\PICC\Devices\16F628A.h	145;"	v	line:145
+CCP_CAPTURE_DIV_16::7	C:\Archivos de programa\PICC\Devices\16F628A.h	136;"	d	line:136
+CCP_CAPTURE_DIV_4::6	C:\Archivos de programa\PICC\Devices\16F628A.h	135;"	d	line:135
+CCP_CAPTURE_FE::4	C:\Archivos de programa\PICC\Devices\16F628A.h	133;"	d	line:133
+CCP_CAPTURE_RE::5	C:\Archivos de programa\PICC\Devices\16F628A.h	134;"	d	line:134
+CCP_COMPARE_CLR_ON_MATCH::9	C:\Archivos de programa\PICC\Devices\16F628A.h	138;"	d	line:138
+CCP_COMPARE_INT::0xA	C:\Archivos de programa\PICC\Devices\16F628A.h	139;"	d	line:139
+CCP_COMPARE_RESET_TIMER::0xB	C:\Archivos de programa\PICC\Devices\16F628A.h	140;"	d	line:140
+CCP_COMPARE_SET_ON_MATCH::8	C:\Archivos de programa\PICC\Devices\16F628A.h	137;"	d	line:137
+CCP_OFF::0	C:\Archivos de programa\PICC\Devices\16F628A.h	132;"	d	line:132
+CCP_PWM::0xC	C:\Archivos de programa\PICC\Devices\16F628A.h	141;"	d	line:141
+CCP_PWM_PLUS_1::0x1c	C:\Archivos de programa\PICC\Devices\16F628A.h	142;"	d	line:142
+CCP_PWM_PLUS_2::0x2c	C:\Archivos de programa\PICC\Devices\16F628A.h	143;"	d	line:143
+CCP_PWM_PLUS_3::0x3c	C:\Archivos de programa\PICC\Devices\16F628A.h	144;"	d	line:144
+CP1_INVERT::0x00010	C:\Archivos de programa\PICC\Devices\16F628A.h	166;"	d	line:166
+CP2_INVERT::0x00020	C:\Archivos de programa\PICC\Devices\16F628A.h	167;"	d	line:167
+FALSE::0	C:\Archivos de programa\PICC\Devices\16F628A.h	38;"	d	line:38
+GLOBAL::0x0BC0	C:\Archivos de programa\PICC\Devices\16F628A.h	194;"	d	line:194
+H_TO_L::0	C:\Archivos de programa\PICC\Devices\16F628A.h	192;"	d	line:192
+INT_CCP1::0x8C04	C:\Archivos de programa\PICC\Devices\16F628A.h	202;"	d	line:202
+INT_COMP::0x8C40	C:\Archivos de programa\PICC\Devices\16F628A.h	203;"	d	line:203
+INT_EEPROM::0x8C80	C:\Archivos de programa\PICC\Devices\16F628A.h	205;"	d	line:205
+INT_EXT::0x0B10	C:\Archivos de programa\PICC\Devices\16F628A.h	197;"	d	line:197
+INT_RB::0xFF0B08	C:\Archivos de programa\PICC\Devices\16F628A.h	196;"	d	line:196
+INT_RDA::0x8C20	C:\Archivos de programa\PICC\Devices\16F628A.h	199;"	d	line:199
+INT_RTCC::0x0B20	C:\Archivos de programa\PICC\Devices\16F628A.h	195;"	d	line:195
+INT_TBE::0x8C10	C:\Archivos de programa\PICC\Devices\16F628A.h	198;"	d	line:198
+INT_TIMER0::0x0B20	C:\Archivos de programa\PICC\Devices\16F628A.h	204;"	d	line:204
+INT_TIMER1::0x8C01	C:\Archivos de programa\PICC\Devices\16F628A.h	200;"	d	line:200
+INT_TIMER2::0x8C02	C:\Archivos de programa\PICC\Devices\16F628A.h	201;"	d	line:201
+L_TO_H::0x40	C:\Archivos de programa\PICC\Devices\16F628A.h	191;"	d	line:191
+MCLR_FROM_RUN::27	C:\Archivos de programa\PICC\Devices\16F628A.h	58;"	d	line:58
+MCLR_FROM_SLEEP::19	C:\Archivos de programa\PICC\Devices\16F628A.h	57;"	d	line:57
+NC_NC_A1_A2::0x6ff05	C:\Archivos de programa\PICC\Devices\16F628A.h	160;"	d	line:160
+NC_NC_NC_NC::0x0ff07	C:\Archivos de programa\PICC\Devices\16F628A.h	161;"	d	line:161
+NORMAL_POWER_UP::25	C:\Archivos de programa\PICC\Devices\16F628A.h	59;"	d	line:59
+OSC_48KHZ::0	C:\Archivos de programa\PICC\Devices\16F628A.h	182;"	d	line:182
+OSC_4MHZ::8	C:\Archivos de programa\PICC\Devices\16F628A.h	183;"	d	line:183
+PIN_A0::40	C:\Archivos de programa\PICC\Devices\16F628A.h	19;"	d	line:19
+PIN_A1::41	C:\Archivos de programa\PICC\Devices\16F628A.h	20;"	d	line:20
+PIN_A2::42	C:\Archivos de programa\PICC\Devices\16F628A.h	21;"	d	line:21
+PIN_A3::43	C:\Archivos de programa\PICC\Devices\16F628A.h	22;"	d	line:22
+PIN_A4::44	C:\Archivos de programa\PICC\Devices\16F628A.h	23;"	d	line:23
+PIN_A5::45	C:\Archivos de programa\PICC\Devices\16F628A.h	24;"	d	line:24
+PIN_A6::46	C:\Archivos de programa\PICC\Devices\16F628A.h	25;"	d	line:25
+PIN_A7::47	C:\Archivos de programa\PICC\Devices\16F628A.h	26;"	d	line:26
+PIN_B0::48	C:\Archivos de programa\PICC\Devices\16F628A.h	28;"	d	line:28
+PIN_B1::49	C:\Archivos de programa\PICC\Devices\16F628A.h	29;"	d	line:29
+PIN_B2::50	C:\Archivos de programa\PICC\Devices\16F628A.h	30;"	d	line:30
+PIN_B3::51	C:\Archivos de programa\PICC\Devices\16F628A.h	31;"	d	line:31
+PIN_B4::52	C:\Archivos de programa\PICC\Devices\16F628A.h	32;"	d	line:32
+PIN_B5::53	C:\Archivos de programa\PICC\Devices\16F628A.h	33;"	d	line:33
+PIN_B6::54	C:\Archivos de programa\PICC\Devices\16F628A.h	34;"	d	line:34
+PIN_B7::55	C:\Archivos de programa\PICC\Devices\16F628A.h	35;"	d	line:35
+RTCC_8_BIT::0	C:\Archivos de programa\PICC\Devices\16F628A.h	83;"	d	line:83
+RTCC_DIV_128::6	C:\Archivos de programa\PICC\Devices\16F628A.h	79;"	d	line:79
+RTCC_DIV_16::3	C:\Archivos de programa\PICC\Devices\16F628A.h	76;"	d	line:76
+RTCC_DIV_1::8	C:\Archivos de programa\PICC\Devices\16F628A.h	72;"	d	line:72
+RTCC_DIV_256::7	C:\Archivos de programa\PICC\Devices\16F628A.h	80;"	d	line:80
+RTCC_DIV_2::0	C:\Archivos de programa\PICC\Devices\16F628A.h	73;"	d	line:73
+RTCC_DIV_32::4	C:\Archivos de programa\PICC\Devices\16F628A.h	77;"	d	line:77
+RTCC_DIV_4::1	C:\Archivos de programa\PICC\Devices\16F628A.h	74;"	d	line:74
+RTCC_DIV_64::5	C:\Archivos de programa\PICC\Devices\16F628A.h	78;"	d	line:78
+RTCC_DIV_8::2	C:\Archivos de programa\PICC\Devices\16F628A.h	75;"	d	line:75
+RTCC_EXT_H_TO_L::48	C:\Archivos de programa\PICC\Devices\16F628A.h	70;"	d	line:70
+RTCC_EXT_L_TO_H::32	C:\Archivos de programa\PICC\Devices\16F628A.h	69;"	d	line:69
+RTCC_INTERNAL::0	C:\Archivos de programa\PICC\Devices\16F628A.h	68;"	d	line:68
+T1_CLK_OUT::8	C:\Archivos de programa\PICC\Devices\16F628A.h	113;"	d	line:113
+T1_DISABLED::0	C:\Archivos de programa\PICC\Devices\16F628A.h	108;"	d	line:108
+T1_DIV_BY_1::0	C:\Archivos de programa\PICC\Devices\16F628A.h	115;"	d	line:115
+T1_DIV_BY_2::0x10	C:\Archivos de programa\PICC\Devices\16F628A.h	116;"	d	line:116
+T1_DIV_BY_4::0x20	C:\Archivos de programa\PICC\Devices\16F628A.h	117;"	d	line:117
+T1_DIV_BY_8::0x30	C:\Archivos de programa\PICC\Devices\16F628A.h	118;"	d	line:118
+T1_EXTERNAL::0x87	C:\Archivos de programa\PICC\Devices\16F628A.h	110;"	d	line:110
+T1_EXTERNAL_SYNC::0x83	C:\Archivos de programa\PICC\Devices\16F628A.h	111;"	d	line:111
+T1_INTERNAL::0x85	C:\Archivos de programa\PICC\Devices\16F628A.h	109;"	d	line:109
+T2_DISABLED::0	C:\Archivos de programa\PICC\Devices\16F628A.h	123;"	d	line:123
+T2_DIV_BY_16::6	C:\Archivos de programa\PICC\Devices\16F628A.h	126;"	d	line:126
+T2_DIV_BY_1::4	C:\Archivos de programa\PICC\Devices\16F628A.h	124;"	d	line:124
+T2_DIV_BY_4::5	C:\Archivos de programa\PICC\Devices\16F628A.h	125;"	d	line:125
+TIMER0_isr	Z:\CCS\Timer Magnetoterapia\Timer.c	98;"	f	line:98	signature:(void)
+TRUE::1	C:\Archivos de programa\PICC\Devices\16F628A.h	39;"	d	line:39
+UART_ADDRESS::2	C:\Archivos de programa\PICC\Devices\16F628A.h	153;"	d	line:153
+UART_DATA::4	C:\Archivos de programa\PICC\Devices\16F628A.h	154;"	d	line:154
+VREF_A2::0x40	C:\Archivos de programa\PICC\Devices\16F628A.h	178;"	d	line:178
+VREF_HIGH::0x80	C:\Archivos de programa\PICC\Devices\16F628A.h	176;"	d	line:176
+VREF_LOW::0xa0	C:\Archivos de programa\PICC\Devices\16F628A.h	175;"	d	line:175
+WDT_1152MS::14	C:\Archivos de programa\PICC\Devices\16F628A.h	101;"	d	line:101
+WDT_144MS::11	C:\Archivos de programa\PICC\Devices\16F628A.h	98;"	d	line:98
+WDT_18MS::0x8008	C:\Archivos de programa\PICC\Devices\16F628A.h	95;"	d	line:95
+WDT_2304MS::15	C:\Archivos de programa\PICC\Devices\16F628A.h	102;"	d	line:102
+WDT_288MS::12	C:\Archivos de programa\PICC\Devices\16F628A.h	99;"	d	line:99
+WDT_36MS::9	C:\Archivos de programa\PICC\Devices\16F628A.h	96;"	d	line:96
+WDT_576MS::13	C:\Archivos de programa\PICC\Devices\16F628A.h	100;"	d	line:100
+WDT_72MS::10	C:\Archivos de programa\PICC\Devices\16F628A.h	97;"	d	line:97
+WDT_FROM_SLEEP::3	C:\Archivos de programa\PICC\Devices\16F628A.h	55;"	d	line:55
+WDT_TIMEOUT::11	C:\Archivos de programa\PICC\Devices\16F628A.h	56;"	d	line:56
+aux	Z:\CCS\Timer Magnetoterapia\Timer.c	21;"	v	line:21
+aux_zum	Z:\CCS\Timer Magnetoterapia\Timer.c	100;"	l	line:100
+cheq_tecla	Z:\CCS\Timer Magnetoterapia\Timer.c	32;"	f	line:32	signature:(void)
+cont_seg	Z:\CCS\Timer Magnetoterapia\Timer.c	24;"	v	line:24
+cont_tecla	Z:\CCS\Timer Magnetoterapia\Timer.c	25;"	v	line:25
+cont_zumbador	Z:\CCS\Timer Magnetoterapia\Timer.c	26;"	v	line:26
+estado	Z:\CCS\Timer Magnetoterapia\Timer.c	22;"	v	line:22
+fgetc::getch	C:\Archivos de programa\PICC\Devices\16F628A.h	45;"	d	line:45
+fgets::gets	C:\Archivos de programa\PICC\Devices\16F628A.h	49;"	d	line:49
+fputc::putchar	C:\Archivos de programa\PICC\Devices\16F628A.h	48;"	d	line:48
+fputs::puts	C:\Archivos de programa\PICC\Devices\16F628A.h	50;"	d	line:50
+getc::getch	C:\Archivos de programa\PICC\Devices\16F628A.h	44;"	d	line:44
+getchar::getch	C:\Archivos de programa\PICC\Devices\16F628A.h	46;"	d	line:46
+main	Z:\CCS\Timer Magnetoterapia\Timer.c	143;"	f	line:143
+minutos	Z:\CCS\Timer Magnetoterapia\Timer.c	20;"	v	line:20
+putc::putchar	C:\Archivos de programa\PICC\Devices\16F628A.h	47;"	d	line:47
+ref_display	Z:\CCS\Timer Magnetoterapia\Timer.c	87;"	f	line:87	signature:(void)
+segundos	Z:\CCS\Timer Magnetoterapia\Timer.c	19;"	v	line:19
+tc::7	Z:\CCS\Timer Magnetoterapia\Timer.c	14;"	d	line:14	file:
+tiempo	Z:\CCS\Timer Magnetoterapia\Timer.c	63;"	f	line:63	signature:(void)
+zumbador	Z:\CCS\Timer Magnetoterapia\Timer.c	23;"	v	line:23

@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0  Date: lun 31 may 2010 03:54:14 ART
+#
+$CMP IC7
+D Op amp
+K Ampliop
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP PIC16F628A
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F628
+$ENDCMP
+#
+$CMP Puls1
+D Push Button
+K Switch
+$ENDCMP
+#
+#End Doc Library

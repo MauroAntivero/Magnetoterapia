@@ -1,0 +1,110 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+006     lcd
+015     CCP_1_LOW
+015-016 CCP_1
+016     CCP_1_HIGH
+01F.6   C1OUT
+01F.7   C2OUT
+020     @INTERRUPT_AREA
+021     @INTERRUPT_AREA
+022     @INTERRUPT_AREA
+023     @INTERRUPT_AREA
+024     @INTERRUPT_AREA
+025     @INTERRUPT_AREA
+026     @INTERRUPT_AREA
+027     @INTERRUPT_AREA
+028     @INTERRUPT_AREA
+029     @INTERRUPT_AREA
+02A     segundos
+02B     minutos
+02C     aux
+02D.0   estado
+02D.1   zumbador
+02E     cont_seg
+02F     cont_tecla
+030     cont_zumbador
+031     aux_zum
+032     lcd_init.i
+033     lcd_init.@SCRATCH1
+039     @MUL88.P1
+039     cheq_tecla.@SCRATCH1
+039     tiempo.@SCRATCH1
+039     ref_display.@SCRATCH1
+039     TIMER0_isr.@SCRATCH1
+03A     @MUL88.P1
+03A     @PRINTF_U_79.P2
+03A     cheq_tecla.@SCRATCH2
+03B     @PRINTF_U_79.P1
+03C     lcd_putc.c
+03C     @DIV88.P1
+03D     @DIV88.P1
+03D     @delay_ms1.P2
+03D     lcd_gotoxy.x
+03E     lcd_gotoxy.y
+03E     @DIV88.@SCRATCH1
+03F     lcd_gotoxy.address
+040     lcd_gotoxy.@SCRATCH1
+041     lcd_send_byte.address
+042     lcd_send_byte.n
+043     lcd_read_byte.low
+043     lcd_send_byte.@SCRATCH1
+044     lcd_read_byte.high
+044     lcd_send_nibble.n
+045     lcd_read_byte.@SCRATCH1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+07B     @SCRATCH
+10D-10E @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+00F1  @delay_ms1
+0033  LCD_INIT_STRING
+009B  lcd_read_byte
+00B8  lcd_send_nibble
+00C4  lcd_send_byte
+0213  lcd_init
+00DF  lcd_gotoxy
+0106  lcd_putc
+016A  cheq_tecla
+0061  @DIV88
+0076  @MUL88
+01BE  tiempo
+01D5  ref_display
+003B  @const103
+004A  @const104
+012B  @PRINTF_U_79
+0160  TIMER0_isr
+0202  MAIN
+0202  @cinit
+
+Project Directory:
+    Z:\CCS\Timer Magnetoterapia\
+
+Project Files:
+    Timer.c
+    C:\ARCHIV~1\PICC\devices\16F628A.h
+    lcd.c
+
+Units:
+    Timer.c (main)
+
+Compiler Settings:
+    Processor:      PIC16F628A
+    Pointer Size:   16
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      Timer.err
+    Ext Symbols: Timer.esym
+    INHX8:       Timer.hex
+    Symbols:     Timer.sym
+    List:        Timer.lst
+    Debug/COFF:  Timer.cof
+    Project:     Timer.PJT
+    Call Tree:   Timer.tre
+    Statistics:  Timer.sta

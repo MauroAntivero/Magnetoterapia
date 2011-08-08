@@ -1,0 +1,5 @@
+>>> Warning 216 "Timer.c" Line 174(0,1): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "Timer.c" Line 174(0,1): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_nibble)
+>>> Warning 216 "Timer.c" Line 174(0,1): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_byte)
+      Memory usage:   ROM=29%      RAM=10% - 20%
+      0 Errors,  3 Warnings.
